@@ -1,4 +1,4 @@
-insar_rsf
+insar_rasf
 =========
 
-InSAR Recursive Spectral Filter
+InSAR Recursive Adaptive Spectral Filter
